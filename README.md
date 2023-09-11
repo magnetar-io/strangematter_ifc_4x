@@ -6,5 +6,5 @@ title: Breaking Down IFC into the Strange Matter Protocol
 erDiagram
     SPF  ||--|| Header : ""
     SPF  ||--|| Units : ""
-    SPF  ||--|| Components : ""
+    SPF  ||--|| Elements : ""
 ```
