@@ -1,11 +1,5 @@
 # strangematter_ifc_4x
 title: Order example
----
-erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    ORDER ||--|{ LINE-ITEM : contains
-    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
-```
 ```mermaid
 classDiagram
     classA --|> classB : Inheritance
