@@ -8,3 +8,12 @@ erDiagram
     SPF  ||--|| Units : ""
     SPF  ||--|| Elements : ""
 ```
+```mermaid
+---
+title: IFC to Strange Matter - Items that move Outside of STEP Express
+---
+erDiagram
+    SPF  ||--|| Header : ""
+    SPF  ||--|| Units : ""
+    SPF  ||--|| Elements : ""
+```
