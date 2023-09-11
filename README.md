@@ -1,7 +1,7 @@
 # strangematter_ifc_4x
 ```mermaid
 ---
-title: Order example
+title: Breaking Down IFC into the Strange Matter Protocol
 ---
 erDiagram
     CUSTOMER ||--o{ ORDER : places
